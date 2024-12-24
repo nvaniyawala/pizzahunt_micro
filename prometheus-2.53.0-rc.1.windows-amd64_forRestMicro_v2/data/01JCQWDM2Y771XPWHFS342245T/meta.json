@@ -1,0 +1,17 @@
+{
+	"ulid": "01JCQWDM2Y771XPWHFS342245T",
+	"minTime": 1731443269568,
+	"maxTime": 1731448800000,
+	"stats": {
+		"numSamples": 82,
+		"numSeries": 68,
+		"numChunks": 68
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01JCQWDM2Y771XPWHFS342245T"
+		]
+	},
+	"version": 1
+}
